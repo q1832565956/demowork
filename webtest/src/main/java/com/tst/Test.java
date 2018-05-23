@@ -15,5 +15,7 @@ public class Test {
     public Test(String name) {
         this.name = name;
     }
-    
+    public  void show (){
+        System.out.print("66");
+    }
 }
